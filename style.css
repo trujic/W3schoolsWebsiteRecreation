@@ -35,20 +35,6 @@ nav {
   cursor: pointer;
 }
 
-.other-list {
-  position: absolute;
-  text-transform: uppercase;
-  background-color: black;
-  color: white;
-  left: 15.5%;
-  list-style: none;
-  display: none;
-}
-
-.other-list li {
-  padding: 15px;
-}
-
 .bg-slideshow {
   height: 110vh;
   width: 100%;
